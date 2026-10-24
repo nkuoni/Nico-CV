@@ -1,1 +1,1 @@
-# Nico-CV
+CV can be downloaded or viewed on GitHub. 
